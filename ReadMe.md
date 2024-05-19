@@ -11,7 +11,7 @@ Welcome to the Crime Analysis and Reporting System (CARS). This project provides
 
 ## Requirements
 - Python 3.x
-- Required Python packages listed in [requirements](https://github.com/Shivamraj-Sharma/Case-Study-Hexaware).
+- Required Python packages listed in [requirements](https://github.com/Shivamraj-Sharma/Case-Study-Hexaware/blob/main/Requirements.md).
 
 ## Usage
 - Create a venv setup and activate it:
