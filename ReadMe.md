@@ -27,7 +27,7 @@ python Main.py
 ```
 
 
-> *Special Thanks to [Ragav Kumar V](https://github.com/ragavkumarv)* *and my bacthmates (Batch-3)*.
+> *Special Thanks to [Ragav Kumar V](https://github.com/ragavkumarv) for his valuable guidance and my batchmates (Batch-3) for their constant support*.
 > #### Batch-3 Participants
 >- [Tanishq Lambhate](https://github.com/TanishqLambhate)
 >- [Pradeep S]()
