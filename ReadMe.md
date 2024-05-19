@@ -23,7 +23,7 @@ python -m venv myenv
 
 - Run the main script to start the system:
 ```bash
-python main.py
+python Main.py
 ```
 
 
