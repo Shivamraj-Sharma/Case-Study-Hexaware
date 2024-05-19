@@ -1,6 +1,6 @@
 # Crime Analysis and Reporting System (CARS)🔍🚨
 
-Welcome to the Crime Analysis and Reporting System (CARS). This project provides a comprehensive solution for managing and analyzing crime-related data. It includes features for creating and updating incidents, generating incident reports, and managing case details. The system is built with Python and utilizes a database for persistent storage.
+Welcome to the Crime Analysis and Reporting System (CARS). This project provides a comprehensive solution for managing and analyzing crime-related data. It includes features for creating and updating incidents, generating incident reports, and managing case details. The system is built with Python and utilizes a database for persistent storage. The [ER Diagram](https://github.com/Shivamraj-Sharma/Case-Study-Hexaware/blob/main/ERD.png) shows the schema of the database.
 
 ## Features
 - Create and update incidents
